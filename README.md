@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Kothuru Chaithanya! 👋</h1>
   <h3>Data Analyst | B.Tech AI & ML Student @ QIS College</h3>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=chaithanyaayaan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
@@ -37,12 +37,12 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chaithanyaayaan&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaithanyaayaan&theme=tokyonight" width="48%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaithanyaayaan&layout=compact&theme=tokyonight" />
 </div>
 
 ---
@@ -50,10 +50,10 @@
 ### 🤝 Let's Connect!
 
 <div align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:kothuruchaitanya1289@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/chaithanya-kothuru-5a17b5403">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
